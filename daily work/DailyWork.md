@@ -1,9 +1,4 @@
-# daily work
-
+# daily 
 daily workd
 
-## wha't the paly
-
-### sossoso`
-Ksadfasdf 
-sadfasdf
+## wha't the paan

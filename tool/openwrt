@@ -1,0 +1,9 @@
+教程 k2p :https://blog.csdn.net/Amosstan/article/details/80135108
+package :https://github.com/kenzok8/openwrt-packages 
+
+
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+https://mianao.info/2020/05/05/%E7%BC%96%E8%AF%91%E6%9B%B4%E6%96%B0OpenWrt-PassWall%E5%92%8CSSR-plus%E6%8F%92%E4%BB%B6
+
+老毛子 https://opt.cn2qq.com/
